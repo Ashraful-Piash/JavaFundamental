@@ -10,6 +10,7 @@ public class SumOfPositiveNumber {
     do {
         num = sc.nextInt();
         sum += num;
+        //done
     } while(num >= 0);
     System.out.println("Sum is : " +sum);
     }
