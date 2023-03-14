@@ -11,6 +11,7 @@ public class SumOfPositiveNumber {
         num = sc.nextInt();
         sum += num;
         //done
+        //tested
     } while(num >= 0);
     System.out.println("Sum is : " +sum);
     }
