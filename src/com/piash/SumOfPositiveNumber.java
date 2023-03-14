@@ -14,5 +14,5 @@ public class SumOfPositiveNumber {
         }while (num>=0);
         System.out.println("sum :" +sum);
     }
-    
+
 }
