@@ -31,8 +31,7 @@ public class MaxMinArray
     public static void main(String[] args)
     {
         int[] nums = { 5, 7, 2, 4, 9, 6 };
-
-        // find the minimum and maximum element, respectively
+        
         findMinAndMax(nums);
     }
 }
